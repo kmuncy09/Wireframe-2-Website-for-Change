@@ -27,16 +27,16 @@ body {
             border:5px solid rgb(78, 78, 78);
             padding:10px;
             margin:10px;
-            width:510px;
+            width:500px;
             background-color: rgb(255, 255, 255);
             color:#567444;
             p{
                 color: #567444;
             }
             img {
-                width: 100%;
+                width: 360px;
                 height: 300px;
-                align: center;
+                padding: 0px;
             }
         }
     }
